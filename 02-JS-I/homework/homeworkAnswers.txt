@@ -1,0 +1,5 @@
+Variable: es la manera de almacenar algo en la memoria, para su posterior uso, colocandole un nombre para su facil ubicacion.
+Strings: es un tipo de dato que se compone de una o varias cadenas de textos, encerradas etre comillas.
+Funciones: es un tipo de objeto que nos sirve como caja negra, para ejecutar acciones que necesitamos realizar, y puede recibir datos en forma de argumentos.
+If: es un control de flujo, comunmente conocido como un operador condicional.
+Booleanos: son otro tipo de datos que tienen una forma binaria es decir, solo 2 valores, uno verdadero y otro falso.
