@@ -1,0 +1,4 @@
+For: El ciclo "for" nos permite realizar operaciones repetitivas de manera automatizada, desde y hasta y en intervalos limites prefijados.
+&&: El operador "and" es un producto logico que nos permite dar por verdaderas varias proposiciones a la vez. Basta que 1 sola de ellas sea falsa para que el resultado final no sea verdadero.
+||: El operador "OR" es una suma logica cuyo valor final podra ser verdadero con tal solo una proposicion verdadera. 
+!: El operador logico "NOT" sirve para negar una proposicion. Es el complemento de una sentencia. 
