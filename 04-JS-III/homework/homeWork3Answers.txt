@@ -1,0 +1,1 @@
+Arrays: Son listas encerradas entre corchetes, donde se pueden almacenar datos de cualquier tipo separados por una coma, se puede acceder a cada dato a traves de su numero de posicion, que va de 0 en adelante.
