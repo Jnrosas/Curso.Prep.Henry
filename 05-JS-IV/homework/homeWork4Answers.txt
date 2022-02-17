@@ -1,0 +1,15 @@
+Objeto:
+Es una cosa que tiene caracteristicas y comportamientos propios. Por ejemplo un auto.
+
+Propiedades:
+Son los nombres o titulos que cada caracteristica puede tener dentro de un objeto. Por ejemplo,
+color, modelo, cantidad de ruedas, etc.
+
+Metodo: Son comportamientos o acciones que realiza que puede tener un determinado objeto. Como ser, 
+arranca, para, gira, etc.
+
+Bucle "for in": Es una manera de recorrer cada propiedad de un objeto.
+
+Notacion de puntos y de corchetes: Son maneras de referirse a cada propiedad o metodo de un objeto. Con corchetes,
+por lo general se mencionan variables, Objeto[propiedad]. Si ya conocemos la propiedad, usamos la notacion de 
+punto. Objeto.propiedad.
